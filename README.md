@@ -5,7 +5,6 @@ Complete ERD and SQL Server database schema for the Final Year Project, includin
 - Categories and services are system-seeded
 - User-related data is inserted through the application UI
 - Seed data supports service discovery and booking flows
-## Role & Responsibilities (This Repository)
 
 ## Role & Responsibilities (This Repository)
 
